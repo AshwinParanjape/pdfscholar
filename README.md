@@ -1,7 +1,7 @@
 # pdfscholar
 A lightweight crossplatform pdf organization tool
 
-## Minimum requirements
+## Minimum feature requirements
 * Store PDF files locally, no dependency on hosted servers
 * Completely accessible from the browser
  * Save pdf files with a single click from any browser
@@ -40,3 +40,8 @@ A lightweight crossplatform pdf organization tool
 * List all pdf files
 * List all tags for pdf files
 * List all pdfs for a tag (or a combination of tags)
+
+## Links
+### Annotation
+* https://github.com/instructure/pdf-annotate.js/
+* https://www.npmjs.com/package/pdf-annotate
