@@ -35,3 +35,10 @@ A lightweight crossplatform pdf organization tool
 * List all pdf files
 * List all tags for pdf files
 * List all pdfs for a tag (or a combination of tags)
+
+To use
+```
+npm install
+npm start
+```
+
